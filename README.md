@@ -9,5 +9,5 @@ gradient_accumulation_steps:4
 ```
 Then select the top 2 predictions and use another albert-xxlarge-v2 model on this new 2 way classification task.
  
-second albert-xxlarge-v2 model with the same parameter as the first one.
+For the second albert-xxlarge-v2 model use the same parameter as the first one.
 
