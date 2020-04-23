@@ -7,7 +7,7 @@ Learning rate: 1e-5
 batch_size: 2	
 gradient_accumulation_steps:4	
 ```
-Then select the top 2 predictions and use another albert-xxlarge-v2 model on this new 2 way classification task.
+## Then select the top 2 predictions and use another albert-xxlarge-v2 model on this new 2 way classification task.
  
-For the second albert-xxlarge-v2 model use the same parameter as the first one.
+## For the second albert-xxlarge-v2 model use the same parameter as the first one.
 
